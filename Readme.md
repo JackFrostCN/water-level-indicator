@@ -48,14 +48,7 @@ The code runs on the **PIC16F887** and performs the following tasks:
 
 ## Circuit Diagram
 
-You can find the circuit schematic for connecting the components in the `/Schematics` folder.
-
-## File Structure
-```
-/Code:           Contains the Embedded C code for the PIC16F887 microcontroller.
-/Schematics:     Contains the circuit schematic for connecting the components.
-/Docs:            Contains project documentation, including setup instructions and any additional notes.
-```
+You can find the circuit schematic for connecting the components in the `/Schematics` file.
 
 ## License
 
